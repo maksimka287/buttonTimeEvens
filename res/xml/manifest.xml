@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Щирина width одного модуля 36 -->
+<!-- Высота height одного модуля 36 -->
+<!-- На одном экране помещается 4 модуля по горизонтали и
+     4 модуля по вертикали максимальный размер 144х144 -->
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:minWidth="108dp"
+                    android:minHeight="72dp"
+                    android:updatePeriodMillis="0"
+                    android:initialLayout="@layout/main"
+                    android:theme="@style/LightStile"/>

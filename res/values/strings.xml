@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--название приложения-->
+    <string name="app_name">События</string>
+    <!--название проекта-->
+    <string name="project_name">Event</string>
+    <!--названия страниц-->
+    <string name="add_event_in">Добавить событие входа</string>
+    <string name="add_event_out">Добавить событие выхода</string>
+
+    <string name="view_label">Просмотр событий</string>
+    <string name="stat_label">Статистика событий</string>
+
+    <string name="view_main">Открыть приложение</string>
+
+    <string name="action_settings">О программе</string>
+
+</resources>
